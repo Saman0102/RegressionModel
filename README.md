@@ -37,11 +37,11 @@ Key Results
 
 | Algorithm | Heating ($R^2$) | Cooling ($R^2$) |
 | :--- | :---: | :---: |
-| Gradient Boosting | **0.981** | **0.981** |
-| k-Nearest Neighbors | 0.935 | 0.935 |
-| Linear Regression | 0.907 | 0.907 |
-| Random Forest | 0.906 | 0.906 |
-| Decision Tree | 0.520 | 0.520 |
+| Gradient Boosting | **0.981** | **0.904** |
+| k-Nearest Neighbors | 0.935 | 0.915 |
+| Linear Regression | 0.907 | 0.886 |
+| Random Forest | 0.906 | 0.890 |
+| Decision Tree | 0.520 | 0.477 |
 
 The study identifies Overall Height and Relative Compactness as the primary drivers of energy demand.
 Conclusions
